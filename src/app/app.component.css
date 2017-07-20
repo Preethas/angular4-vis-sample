@@ -1,0 +1,11 @@
+.bordered{
+  border: solid 1px darkgray;
+}
+
+.margin-top-40{
+  margin-top: 40px;
+}
+
+.padding-10{
+  padding: 10px 10px 10px 10px;
+}
