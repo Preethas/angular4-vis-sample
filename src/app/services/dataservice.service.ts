@@ -20,7 +20,7 @@ export class DataserviceService {
 
   getNetworkData() {
     var nodesArr = [
-      {id: 1, label: 'user', image: '../assets/icons8-Thinking Female-48.png',shape:'image'},
+      {id: 1, label: 'user', color:'red'},
       {id: 2, label: 'java', color: 'rgb(255,168,7)'},
       {id: 3, label: 'scala', color: '#7BE141'},
       {id: 4, label: 'go', color: 'rgba(97,195,238,0.5)'},
